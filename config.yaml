@@ -1,0 +1,6 @@
+path: C:\Users\Mark\Desktop\Bicycle_Detector\38_yolov3_train_custom_model\code\data
+train: images/train
+val: images/train
+
+names:
+  0: Bicycle
